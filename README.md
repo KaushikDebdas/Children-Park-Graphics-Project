@@ -29,4 +29,6 @@ The girl will sit on bench by pressing "r" and girl will stand by pressing "s".
 ## Boat: 
 The girl will get onto the boat and boat will move by pressing "b" and get down from the boat by pressing "c" when it’s in the middle(almost) of the river.
 
+# Screenshot
+![Screenshot (53)](https://user-images.githubusercontent.com/67013658/139572601-7d7bc3f8-a73a-4ff1-9e3d-9e0e24078500.png)
 
