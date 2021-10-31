@@ -1,5 +1,5 @@
 # Children-Park-Graphics-Project
-This a computer graphics project designed with C++. This project is like an children park where a child can
+This is a computer graphics project designed with C++. This project is like an children park where a child can
 enjoy some rides. Here are some features we will try to implement for this project.
 
 # Features
